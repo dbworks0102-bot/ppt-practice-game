@@ -104,10 +104,10 @@
 
 ## フェーズ 6：デプロイ
 
-- [ ] 6-1. GitHub リポジトリ作成（`ppt-practice-game`）
-- [ ] 6-2. `.gitignore` 作成（`node_modules/` / `dist/` を除外）
-- [ ] 6-3. Vercel プロジェクト作成・GitHub連携
-- [ ] 6-4. 本番環境でのE2Eテスト実行確認
+- [x] 6-1. GitHub リポジトリ作成 → https://github.com/dbworks0102-bot/ppt-practice-game
+- [x] 6-2. `.gitignore` 作成（`node_modules/` / `dist/` / `test-results/` を除外）
+- [x] 6-3. Vercel プロジェクト作成・GitHub連携 → https://ppt-practice-game-dbworks0102-bots-projects.vercel.app
+- [x] 6-4. 本番環境でのE2Eテスト実行確認（37件 全グリーン ✅）
 - [ ] 6-5. カスタムドメイン設定（任意）
 
 ---
@@ -131,5 +131,5 @@
 | 3. モジュール分割 | 12 | 12 | ✅ 100% |
 | 4. テスト環境 | 14 | 14 | ✅ 100% |
 | 5. 公開準備 | 5 | 5 | ✅ 100% |
-| 6. デプロイ | 0 | 5 | ⬜ 0% |
+| 6. デプロイ | 4 | 5 | 🔄 80% |
 | 7. 拡充（公開後）| 0 | 4 | ⬜ 0% |
