@@ -1,0 +1,21 @@
+﻿# 依存パッケージ
+node_modules/
+
+# ビルド成果物
+dist/
+
+# Playwright テスト結果
+test-results/
+playwright-report/
+
+# エディタ設定
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 環境変数
+.env
+.env.local

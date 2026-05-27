@@ -1,0 +1,22 @@
+{
+  "name": "ppt-practice-game",
+  "version": "1.0.0",
+  "description": "PPT道場 〜パワーポイント操作練習ゲーム〜",
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "jsdom": "^29.1.1",
+    "vite": "^8.0.14",
+    "vitest": "^4.1.7"
+  }
+}
